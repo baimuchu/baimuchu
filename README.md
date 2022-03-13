@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - [Zhihu 知乎](https://www.zhihu.com/people/zhu-bo-xiang-72)
 - [LinkedIn](https://www.linkedin.com/in/boxiang-zhu-0835181a9/)
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=baimuchu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
