@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 
 ### I'm Baimu
 
-- A Information Engineering Undergraduate Student. & Open Source enthusiast.
+- A Information Engineering (Combined AI and communication) Undergraduate Student.
 - 🌱 Currently studying in BUPT(Beijing University of Posts and Telecommunications), China.
-- 💬 Ask me about Computer Vision, Machine Learning and my projects on [873298574@qq.com](mailto:873298574@qq.com)
+- 💬 Ask me about computer vision, machine learning, IoT and my projects on [873298574@qq.com](mailto:873298574@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
- - <img src="https://img.shields.io/badge/Python-Interpreted-informational?&labelColor=3776AB&color=585858&logo=python&logoColor=FFFFFF"> 
- - <img src="https://img.shields.io/badge/C-Compiled-informational?&labelColor=3c48a3&color=585858"> 
- - <img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=719ace&color=585858">
+ - <img src="https://img.shields.io/badge/Python-Interpreted-informational?&labelColor=3776AB&color=585858&logo=python&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/JavaScript-Compiled-informational?&labelColor=719ace&color=585858">
+ - <img src="https://img.shields.io/badge/C-Compiled-informational?&labelColor=3c48a3&color=585858"> <img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=719ace&color=585858">
 - 🤔 I have no preference of any langurage. For any certain project, I can learn the tech-stack immedietly and use the recommanded language.
 
 ### 开源项目 | Open Source Project
