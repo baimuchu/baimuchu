@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/-Compiled-informational?&labelColor=A8B9CC&color=585858&logo=C&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=00599C&color=585858&logo=Cplusplus&logocolor=FFFFFF">
 - <img src="https://img.shields.io/badge/-MATLAB-informational?&color=585858"> <img src="https://img.shields.io/badge/-MySQL-informational?&color=4479A1&logo=MySQL&logoColor=FFFFFF">
 - <img src="https://img.shields.io/badge/Linux-Bash-informational?&labelColor=FCC624&color=585858&logo=linux&logoColor=FFFFFF">
-- 🤔 I have no preference of any langurage. For any certain project, I can learn the tech-stack immedietly and use the recommanded language.
+- <img src="https://img.shields.io/badge/-Arduino-informational?&color=00979D&logo=Arduino&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Espressif-informational?&color=E7352C&logo=Espressif&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Alibaba Cloud-informational?&color=FF6A00&logo=Alibaba Cloud&logoColor=FFFFFF">
+- 🤔 I usually use python in solve cv,ml problem. But in the face of different projects, I will choose the most appropriate tech stack, and learn this tech stack as soon as possible.
 
 ### 开源项目 | Open Source Project
 
