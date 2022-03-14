@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/-MATLAB-informational?&color=585858"> <img src="https://img.shields.io/badge/-MySQL-informational?&color=4479A1&logo=MySQL&logoColor=FFFFFF">
 - <img src="https://img.shields.io/badge/Linux-Bash-informational?&labelColor=FCC624&color=585858&logo=linux&logoColor=FFFFFF">
 - <img src="https://img.shields.io/badge/-Arduino-informational?&color=00979D&logo=Arduino&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Espressif-informational?&color=E7352C&logo=Espressif&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Alibaba Cloud-informational?&color=FF6A00&logo=Alibaba Cloud&logoColor=FFFFFF">
-- 🤔 I usually use python in solve cv,ml problem. But in the face of different projects, I will choose the most appropriate tech stack, and learn this tech stack as soon as possible.
+- 🤔 I usually use python in solving cv,ml problem. But in the face of different projects, I will choose the most appropriate tech stack, and learn this tech stack as soon as possible.
 
 ### 开源项目 | Open Source Project
 
