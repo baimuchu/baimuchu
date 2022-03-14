@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello GitHub Fans 👋
+## Hello GitHub Friends 👋
 
 ### I'm Baimu
 
