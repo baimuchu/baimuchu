@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about computer vision, machine learning, IoT and my projects on [873298574@qq.com](mailto:873298574@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
- - <img src="https://img.shields.io/badge/Python-Interpreted-informational?&labelColor=3776AB&color=585858&logo=python&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/JavaScript-Compiled-informational?&labelColor=719ace&color=585858">
- - <img src="https://img.shields.io/badge/C-Compiled-informational?&labelColor=3c48a3&color=585858"> <img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=719ace&color=585858">
+-  <img src="https://img.shields.io/badge/JavaScript-Interpreted-informational?&labelColor=F7DF1E&color=585858&logo=javascript&logoColor=FFFFFF">
+- <img src="https://img.shields.io/badge/-Compiled-informational?&labelColor=A8B9CC&color=585858&logo=C&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=00599C&color=585858&logo=Cplusplus&logocolor=FFFFFF">
+- <img src="https://img.shields.io/badge/-MATLAB-informational?&color=585858"><img src="https://img.shields.io/badge/-MySQL-informational?&color=4479A1&logo=MySQL&logoColor=FFFFFF">
+- <img src="https://img.shields.io/badge/Linux-Bash-informational?&labelColor=FCC624&color=585858&logo=linux&logoColor=FFFFFF">
 - 🤔 I have no preference of any langurage. For any certain project, I can learn the tech-stack immedietly and use the recommanded language.
 
 ### 开源项目 | Open Source Project
