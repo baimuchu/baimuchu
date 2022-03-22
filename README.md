@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## Hello GitHub Friends 👋
 
-### I'm Baimu
+### I'm Baimu 柏慕
 
 - A Information Engineering (Combined AI and communication) Undergraduate Student.
 - 🌱 Currently studying in BUPT(Beijing University of Posts and Telecommunications), China.
