@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ## Hello GitHub Friends 👋
 
 ### I'm Baimu 柏慕
-
-- A Information Engineering (Combined AI and communication) Undergraduate Student.
-- 🌱 Currently studying in BUPT(Beijing University of Posts and Telecommunications), China.
+- 🌱 Graduated from BUPT(Beijing University of Posts and Telecommunications), China.
 - 💬 Ask me about computer vision, machine learning, IoT and my projects on [zbx202204@outlook.com](mailto:zbx202204@outlook.com)
 
 ### 🛠 技术栈 | Tech Stack
