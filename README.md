@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - A Information Engineering (Combined AI and communication) Undergraduate Student.
 - 🌱 Currently studying in BUPT(Beijing University of Posts and Telecommunications), China.
-- 💬 Ask me about computer vision, machine learning, IoT and my projects on [873298574@qq.com](mailto:873298574@qq.com)
+- 💬 Ask me about computer vision, machine learning, IoT and my projects on [zbx202204@outlook.com](mailto:zbx202204@outlook.com)
 
 ### 🛠 技术栈 | Tech Stack
 - <img src="https://img.shields.io/badge/Python-Interpreted-informational?&labelColor=3776AB&color=585858&logo=python&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/JavaScript-Interpreted-informational?&labelColor=F7DF1E&color=585858&logo=javascript&logoColor=FFFFFF">
