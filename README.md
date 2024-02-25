@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### 开源项目 | Open Source Project
 
 ### 关于我 | About Me
+- [Homepage](https://www.notion.so/box-zhu/Box-s-Research-Homepage-10f074b11f084be59795366d4ac5b86c)
 - [Zhihu 知乎](https://www.zhihu.com/people/zhu-bo-xiang-72)
 - [LinkedIn](https://www.linkedin.com/in/boxiang-zhu-0835181a9/)
 
