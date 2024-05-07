@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 关于我 | About Me
 - [Homepage](https://www.notion.so/box-zhu/Box-s-Research-Homepage-10f074b11f084be59795366d4ac5b86c)
 - [Zhihu 知乎](https://www.zhihu.com/people/zhu-bo-xiang-72)
-- [LinkedIn](https://www.linkedin.com/in/boxiang-zhu-0835181a9/)
+- [LinkedIn](https://www.linkedin.com/in/box-zhu-0835181a9/)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baimuchu)](https://github.com/anuraghazra/github-readme-stats)
