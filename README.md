@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🤔 I usually use python in solving CV, ML problem. But in the face of different projects, I will choose the most appropriate tech stack, and learn this tech stack as soon as possible.
 
 ### 关于我 | About Me
-- [Homepage](https://www.notion.so/box-zhu/Box-s-Research-Homepage-10f074b11f084be59795366d4ac5b86c)
+- [Homepage](https://www.boxiangzhu.com/en)
 - [Zhihu 知乎](https://www.zhihu.com/people/zhu-bo-xiang-72)
 - [LinkedIn](https://www.linkedin.com/in/box-zhu-0835181a9/)
 
